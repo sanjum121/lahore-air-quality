@@ -20,7 +20,13 @@ This project collects air quality readings from sensors around Lahore and matche
 
 ## Stations
 
-Five stations across Lahore: Gulberg III, Cantonment, Shalimar Town, Ravi Road and Thokar Niaz Baig.
+Five stations across Lahore: 
+4618814 Gulberg III
+4698865 Cantonment
+4555745 Ravi Road
+4568423 Model Town
+4527035 Civil Secretariat
+Shalimar and Thokar Niaz Biag stations were dropped after first audit due to larger gaps.
 
 ## Data files
 

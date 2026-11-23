@@ -1,5 +1,5 @@
 4618814 Gulberg III
 4698865 Cantonment
-4557686 Shalimar Town
 4555745 Ravi Road
-5371017 Thokar Niaz Baig
+4568423 Model Town
+4527035 Civil Secretariat
